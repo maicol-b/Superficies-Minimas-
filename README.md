@@ -1,12 +1,11 @@
 # Superficies-minimas-
-A través de código en Python  se hace un análisis sobre las  propiedades de una superficie mínima.
 
-Se realiza  el código para expresar de forma analítica :
+A través de código en Python  se hace un análisis sobre las  propiedades de una superficie mínima.Se realiza  el código para expresar de forma analítica :
 
 La curvatura de Gauss 
 La curvatura Normal 
 Las lineas asintóticas 
-Las lineas de curvatura 
+Las lineas de curvatura. 
 
 De una superficie dada su parametrización. 
 
