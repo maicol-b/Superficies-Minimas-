@@ -9,5 +9,5 @@ A través de código en Python  se hace un análisis sobre algunas propiedades g
 
 De una superficie dada su parametrización                                                                                                                                 
 
-También se empleo un código para realizar la construcción de superficies mínimas, atreves de la formula de representación de Enneper Weistrass y la formula de Broling 
+También se empleo un código para realizar la construcción de superficies mínimas, atravez de la formula de representación de Enneper Weistrass y la formula de Broling 
 
